@@ -1,0 +1,1 @@
+<h1> Hello World </h1><?php /**PATH C:\wamp\www\zuriLaravel\resources\views/welcome.blade.php ENDPATH**/ ?>
